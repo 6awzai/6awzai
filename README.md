@@ -9,7 +9,7 @@
 <div style="height: 20px;"></div>
 
 <div align="center" style="margin: 0; background: transparent;">
-  <img src="https://hits.sh/github.com/TU-USUARIO.svg?style=flat&color=333333&labelColor=CCCCCC&label=%E2%9C%9A" alt="Views">
+  <img src="https://hits.sh/github.com/6awzai.svg?style=flat&color=333333&labelColor=CCCCCC&label=%E2%9C%9A" alt="Views">
 </div>
 
 <div style="height: 45px;"></div>
@@ -21,7 +21,13 @@
 <div style="height: 45px;"></div>
 
 <div align="center" style="margin: 0; background: transparent;">
-  <img src="https://i.postimg.cc/kX73RYNH/187-sin-titulo-20260930113658.png" style="background: transparent;">
+  <img src="https://i.postimg.cc/cHRh52Xp/187-sin-titulo-20260929210003.png" style="background: transparent;">
+</div>
+
+<div style="height: 45px;"></div>
+
+<div align="center" style="margin: 0; background: transparent;">
+  <img src="https://i.postimg.cc/hP7SXqPy/186-sin-titulo-20260929231743.png" width="100%" style="background: transparent;">
 </div>
 
 <div style="height: 45px;"></div>
